@@ -4,7 +4,8 @@ Writes one line about a small good thing that happened today to
 MAKEFUN_OUTPUT_DIR/entry.txt: the bus driver who saw me sprinting,
 held the door, and waved me aboard like we had rehearsed it for
 years — then winked at my untied shoelace. One concrete detail, one
-unexpected turn, no trailing newline. Stdlib only.
+unexpected turn, no trailing newline. The line is 139 characters, well
+inside the 200-character cap. Stdlib only.
 """
 
 import os
